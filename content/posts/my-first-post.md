@@ -1,6 +1,6 @@
 +++
 title = "000"
-date = "2023-01-08T11:05:20Z"
+date = "∞"
 author = "Balalaika"
 authorTwitter = "None"
 cover = ""
