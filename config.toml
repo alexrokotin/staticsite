@@ -1,6 +1,6 @@
 baseURL = 'https://alexrokotin.github.io/staticsite/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'ru'
+title = 'Зарядись матиууаацией!'
 theme = "ananke"
 
 [params]
