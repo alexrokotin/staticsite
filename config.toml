@@ -2,3 +2,7 @@ baseURL = 'https://alexrokotin.github.io/staticsite/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
+
+[params]
+  headerTitle = "Welcome to My Static Site"
+  description = "A simple Hugo site with Ananke theme"
