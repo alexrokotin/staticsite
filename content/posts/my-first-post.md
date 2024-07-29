@@ -1,6 +1,6 @@
 +++
 title = "000"
-date = "∞"
+date = "Каждый день"
 author = "Balalaika"
 authorTwitter = "None"
 cover = ""
