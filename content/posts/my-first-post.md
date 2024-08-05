@@ -14,7 +14,7 @@ color = "green"
 +++
 
 # План работ
-![lol](content/posts/IMG_20240801_142947_813.jpg)
+![lol](content/posts/content/posts/IMG_20240801_142947_813.jpg)
 _утром_:
 1.прес качат
 2.бегит
