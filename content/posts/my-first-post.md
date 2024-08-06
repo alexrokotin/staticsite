@@ -20,7 +20,7 @@ color = "green"
 
 _„Только идущий осилит дорогу...“_
 
-![1](/images/Converted_00509cce-207d-48f2-b03d-9b6c472e7112.jpeg)
+![1](images/Converted_00509cce-207d-48f2-b03d-9b6c472e7112.jpeg)
 
 ![2](IMG_20240801_142948_368.jpg)
 
