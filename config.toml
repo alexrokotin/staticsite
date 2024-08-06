@@ -1,6 +1,6 @@
 baseURL = 'https://alexrokotin.github.io/staticsite/'
 languageCode = 'ru'
-title = 'Зарядись матиууаацией!'
+title = 'Ода к Татьяне'
 theme = "ananke"
 
 [params]
