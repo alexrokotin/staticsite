@@ -1,7 +1,7 @@
 
 +++
 title = "Милости прошу!"
-date = 
+date = 2024-08-06T12:00:00Z
 author = "Арнаут Татьяна"
 authorTwitter = "None"
 cover = ""
