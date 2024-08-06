@@ -1,29 +1,21 @@
 +++
-title = "000"
-date = "Каждый день"
-author = "Balalaika"
+title = "Милости прошу!"
+date = 
+author = "Арнаут Татьяна"
 authorTwitter = "None"
 cover = ""
 tags = ["hugo", "demo"]
 keywords = ["hugo", "demo"]
-description = "Daily routine"
+description = "Вступление"
 showFullContent = false
 readingTime = true
 hideComments = false
 color = "green"
 +++
 
-# План работ
-![lol](IMG_20240801_142947_813.jpg)
-_утром_:
-1.прес качат
-2.бегит
-3.турник
-4.анжуманя
+#Действующая героиня
 
-_вечером_:
-1.прес качат
-2.бегит
-3.турник
-4.анжуманя
-5.гантели
+Ода сия о героине Татьяне, Что странствовала в землях чудных и далеких. Ода Татьяне, великой страннице!
+
+_„Только идущий осилит дорогу...“_
+
